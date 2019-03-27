@@ -1,0 +1,48 @@
+PROGRAMACION CLASE 4:   26/03/2019
+
+THIS, HACE REFERENCIA AL OBJETO, EJEMPLO ALUMNO, 
+ES COMO EL NOMBRE DE LA ESTRUCTURA, DESPUES SE INGRESA A LOS CAMPOS!
+
+PARA MOSTRAR SE USA EL + Y TO STRING SI ES NUMERICO!!
+
+ return this.legajo.ToString() + "-" +  this.apellido + " " + 
+                this.nombre + " " + colegio  +  " " + 
+                (this.notaFinal == -1 ? "DESAPROBADO": this.notaFinal.ToString()) ;
+
+
+OJO, LOS METODOS (FUNCIONES), SE PONEN DENTRO DEL CORCHETE DE LA CLASE!
+
+privado es private!!! privado esta relacionado con publico, estatico es otra cosa, ver a que hace referencia con static!!
+
+SI SE LLAMA IGUAL QUE LA CLASE ES UN CONSTRUCTOR, 
+
+
+
+
+SOBRECARGA DE METODOS: ************************************
+
+**********************************************************
+
+VER PDF!
+
+INVERTIR EL ORDEN DE LOS ARGUMENTOS EN EL MISMO METODO YA EL COMPILADOR LO TOMA COMO SOBRECARGA!
+
+FIRMA = NOMBRE, ARGUMENTO Y RETORNO..........!
+
+SI ESTA EN LA CLASE SE HACE LA SOBRECARGA POMIENDO : THIS EN SOBRECARGAS PARA CONSTRUCTORES!
+
+HACER EL EJERCICIO 19 !!!!
+
+
+SIEMPRE QUE HAYA UNA PERDIDA DE INFORMACION ES EXPLICITA EJ PASAR DE FLOAT A INT, SE PIERDEN DATOS, LA EXPLICITA ES INVERSA!!
+
+ES EL CASTEO DEL TIPO DE DATO QUE USABAMOS!
+
+********----LOS PPT ESTAN EN EL GIT!!
+
+
+
+
+
+
+
